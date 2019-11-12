@@ -1,0 +1,44 @@
+/* css */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    padding: 10px;
+}
+
+.panel-heading, h1{
+    text-align: center;
+    padding: 30px;
+    padding: 10px ;
+}
+.panel-body {
+    position: relative;
+    background: cornsilk;
+    font-size: 30px;
+    padding: 10px;
+    margin-left: 100px;
+}
+.container {
+    background: rgb(211, 42, 79);
+    font-size: 50px;
+}
+.panel-heading{
+    background: rgb(212, 166, 104);
+    font-size: 10px;
+    display: block;
+}
+
+.jumbotron-fluid{
+        height: 100%;
+        background-size: cover;
+        background-attachment: fixed;
+}
+#lookingGood {
+        background: url("Maserati.jpg");
+        height: 100%;
+        background-size: cover;
+        background-attachment: fixed;
+        padding: 150px;
+}
